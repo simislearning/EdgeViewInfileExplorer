@@ -1,0 +1,9 @@
+Steps:
+
+1) Download the admin template https://www.microsoft.com/edge/business/download
+2) Modify the group POlicy Object Editor 
+3) allow the user to input the sharepoint domain
+4) group Policy update
+#
+https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies#configureviewinfileexplorer
+SOFTWARE\Policies\Microsoft\Edge\ConfigureViewInFileExplorer = [{"cookies": ["rtFa", "FedAuth"], "domain": "contoso.sharepoint.com"}, {"cookies": ["rtFa", "FedAuth"], "domain": "contoso2.sharepoint.com"}]
