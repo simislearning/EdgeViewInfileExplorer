@@ -10,7 +10,7 @@ I don't recommend this option please try to work on splitting the sharepoint lib
 Prior to Sharepoint sync if you recall it this used to worked based on IE recenlty i had revist saw Microsoft has been updating the docs for Edge so decided to retry and had deployed it for one of the clients since it can be useful but i still recommend if you are trying to use sharepoint as file storage just don't please use third party services.
 
 
-using this method it works with SSO through EDGE it self, long the computer is joined to Azure AD 
+using this method it works with SSO through EDGE it self, long as the computer is joined to Azure AD 
 
 *Please note this is only for Windows*
 
