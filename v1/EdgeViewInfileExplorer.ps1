@@ -1,5 +1,7 @@
-
-#based on https://learn.microsoft.com/en-us/sharepoint/sharepoint-view-in-edge 
+ # Version:        0.1
+ # Author:         simislearning
+ # Creation Date:  12/29/2023
+ #based on https://learn.microsoft.com/en-us/sharepoint/sharepoint-view-in-edge 
 #CABURL
 #found on https://www.microsoft.com/edge/business/download
 $URL = "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ae978a62-edd6-4461-adf3-4f517e276bac/MicrosoftEdgePolicyTemplates.cab"
