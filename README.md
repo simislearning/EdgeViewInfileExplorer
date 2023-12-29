@@ -5,7 +5,7 @@ Document Link:
 https://learn.microsoft.com/en-us/sharepoint/sharepoint-view-in-edge#configure-view-in-file-explorer-with-edge
 
 
-I don't recommend this option please try to work on splitting the sharepoint libraries  since i had worked on the code for one of the client who didn't want to redo sharepoint this is for for those clients although ZeeDrive was an option i had read it does run into some issues so i had re-visit.
+I don't recommend this option please try to work on splitting the sharepoint libraries  since i had worked on the code for one of the client who didn't want to redo sharepoint this is for for those clients for large libraries although ZeeDrive was an option i had read it does run into some issues so i had re-visit.
 
 Prior to Sharepoint sync if you recall it this used to worked based on IE recenlty i had revist saw Microsoft has been updating the docs for Edge so decided to retry and had deployed it for one of the clients since it can be useful but i still recommend if you are trying to use sharepoint as file storage just don't please use third party services.
 #
